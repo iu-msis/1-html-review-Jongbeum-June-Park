@@ -1,0 +1,125 @@
+header {
+    background-color: #003153;
+    color: darkgoldenrod;
+    font-family: monospace;
+    text-align: center;
+    border: double 4px darkgoldenrod;
+    padding: 10px;
+}
+
+.h1 {
+    display: inline-block;
+    font-family: "Georgia", Times, Serif;
+    font-weight: 2;
+}
+
+.a:hover {
+    color: firebrick;
+}
+
+.h2 {
+    color: #003153;
+    font-size: 15px;
+    font-family: "Georgia";
+    text-align: center;
+}
+
+.heading {
+    background-color: #003153;
+    color: whitesmoke;
+    /*    border-radius: 5px;*/
+    padding: 5px;
+    font-family: "Georgia", Times, Serif;
+    text-align: center;
+    color: darkgoldenrod;
+    border: double 4px darkgoldenrod;
+}
+
+nav {
+    background-color: lightgray;
+    color: darkgrey;
+    padding: 5px;
+    font-family: "Georgia", Times, Serif;
+    font-weight: 2;
+    text-align: center;
+}
+
+.approved {
+    color: green;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.denied {
+    color: firebrick;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #565656;
+}
+
+footer {
+    background-color: #003153;
+    color: darkgoldenrod;
+    font-family: monospace;
+    text-align: center;
+    padding: 20px;
+    border: double 4px darkgoldenrod;
+}
+
+blockquote {
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+p {
+    font-family: "Georgia", Times, Serif;
+    color: #003153;
+}
+
+.speedway:hover {
+    background-color: #454545;
+}
+
+.speedwaylist:hover {
+    background-color: #454545;
+}
+
+.speedway {
+    font-family: sans-serif;
+    border-radius: 3px;
+    background-color: lightgrey;
+    border: bold;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 8px;
+    border: double black 2px;
+}
+
+.speedwaylist {
+    list-style-type: none;
+}
+
+.brick {
+    color: black;
+    background-color: whitesmoke;
+    border: black solid 2px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+.brick:hover {
+    color: firebrick;
+}
+
+body {
+    /*    text-align: center;*/
+    font-family: "Georgia", Times, Serif;
+}
